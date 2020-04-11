@@ -1,4 +1,4 @@
-# realtime distributed ai monetizer
+# realtime distributed ai trainer
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
